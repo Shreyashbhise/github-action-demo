@@ -29,3 +29,13 @@ Then you have to edit your yml with ubuntu-latest with self-hosted
 
 github action is running you check using this yellow dot
 
+![image](https://github.com/Shreyashbhise/github-action-demo/assets/108046802/3b0dd978-8429-464b-a0c8-1d6ad045748b)
+
+![image](https://github.com/Shreyashbhise/github-action-demo/assets/108046802/7fffec65-5856-48ae-b952-74bf70d104f5)
+
+
+![image](https://github.com/Shreyashbhise/github-action-demo/assets/108046802/2b477aec-e77a-412e-ad75-116e6cf4771e)
+
+![image](https://github.com/Shreyashbhise/github-action-demo/assets/108046802/43463b9d-8db7-4f2b-91e1-3b3890e2427f)
+
+
